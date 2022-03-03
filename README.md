@@ -1,4 +1,4 @@
-# Group-Project-1
+# BITCOIN MINING COST ESTIMATOR
 *This program uses the cost of electricity in your region, along with the mining difficulty of the bitcoin network, to calculate an estimate of the electrical cost to mine 1 Bitcoin. The results are displayed amongst a selection of some of the top bitcoin miners on the market to see how each model stacks up. The calculations are calibrated to miners running on their normal power mode, not on their overclocked, or on power saving modes.
 
 ## Contributor(s)
